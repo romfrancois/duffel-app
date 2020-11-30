@@ -1,0 +1,26 @@
+{
+    "data": {
+        "passengers": [
+            {
+                "phone_number": "+442080160509",
+                "email": "amelia@duffel.com",
+                "born_on": "1987-07-24",
+                "title": "mrs",
+                "gender": "f",
+                "family_name": "Earhart",
+                "given_name": "Amelia",
+                "id": "pas_0000A1iiy1nznnzb7lcPnW"
+            }
+        ],
+        "payments": [
+            {
+                "currency": "GBP",
+                "amount": "3460.60",
+                "type": "balance"
+            }
+        ],
+        "selected_offers": [
+            "off_0000A1iiyDDZN3z8WGfUgc"
+        ]
+    }
+}
